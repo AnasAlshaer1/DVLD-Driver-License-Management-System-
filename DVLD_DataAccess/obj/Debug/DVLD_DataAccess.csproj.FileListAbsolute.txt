@@ -1,0 +1,12 @@
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_Presentaion\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_Presentaion\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_Presentaion\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_Presentaion\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_Presentaion\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_Presentaion\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_DriverAndVehiclesLicesnseDepartment\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_DriverAndVehiclesLicesnseDepartment\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_DriverAndVehiclesLicesnseDepartment\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_DriverAndVehiclesLicesnseDepartment\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_DriverAndVehiclesLicesnseDepartment\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\anasm\OneDrive\سطح المكتب\DVLD(Project19)\DVLD_DriverAndVehiclesLicesnseDepartment\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
