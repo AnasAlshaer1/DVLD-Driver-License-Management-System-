@@ -95,7 +95,8 @@ The database contains relationships between People, licenses, applications, and 
 
 ### Step 1 – Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/DVLD.git
+git clone https://github.com/YourUsername/DVLD-Driver-License-Management-System-.git
+
 Step 2 – Open the Project
 
 Open the solution in Microsoft Visual Studio.
@@ -136,14 +137,11 @@ Login using your admin account (or default credentials if provided).
 
 🧑‍💻 Author
 
-Name: Alnoor Mahmoud
+Name: Anas Alshaer
 
-GitHub: @ AlnoorMahmoud
+GitHub: @ AnasAlshaer1
  
 
-📜 License
-
-This project is licensed under the MIT License — feel free to use, modify, and share.
 
 ✨ Thank you for checking out this project. Feedback and contributions are welcome! 🚀
 
