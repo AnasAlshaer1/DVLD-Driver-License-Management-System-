@@ -19,39 +19,26 @@ This project was built as part of a practical learning journey to strengthen pro
 |--------------------------|----------------------------------------------------|------------------------------------------------------------|
 | 🖥️ Programming Language   | C# (.NET Framework – Windows Forms)                | Building the desktop application                           |
 | 🧰 Database               | SQL Server                                        | Storing and managing application data                      |
-| 💾 File Handling          | JSON / CSV                                        | Handling and saving some data locally                      |
+| 💾 File Handling          |   CSV                                        | Handling and saving some data locally                      |
 | 🔗 Data Access            | ADO.NET                                           | Connecting the application to the database                 |
 | 🧑‍💻 IDEs                  | Microsoft Visual Studio, SQL Server Management Studio (SSMS) | Development and database management           |
 | 🐙 Version Control        | Git & GitHub                                      | Source code hosting and version control                    |
 
 ---
 
-## 📂 Project Structure
-DVLD/
-│
-├── 📁 Forms/ # Windows Forms UI files (Login, Licenses, Tests, etc.)
-├── 📁 Classes/ # Business logic and data models
-├── 📁 Data/ # JSON and CSV files (if used)
-├── 📁 SQL/ # SQL database scripts and backups
-├── 📁 Assets/ # Icons and images
-├── Program.cs
-└── README.md
-
----
 
 ## 🧰 Main Classes and Their Roles
 
-| Class Name                  | Description                                                                 |
+| Class Name                  | Description                                                                  | 
 |-----------------------------|------------------------------------------------------------------------------|
-| `clsClient`                 | Manages client account information                                          |
-| `clsClientsData`            | Handles list operations for clients (Add, Update, Delete, Search)            |
+| `clsPerson`                 | Manages client account information                                           |
+| `clsPersonDataAccess`       | Handles list operations for clients (Add, Update, Delete, Search)            |
 | `clsLicense`                | Manages driver license information and status                                |
 | `clsInternationalLicense`   | Manages international license records                                        |
 | `clsTest`                   | Handles driving test results and appointments                                |
-| `clsApplication`            | Manages license applications                                                |
-| `clsUser`                   | Manages user login and authentication                                       |
-| `clsDatabase`               | Handles database connection, SQL queries, and stored procedures              |
-| `clsUtilities` *(optional)* | Helper functions for date formatting, validation, and other general actions  |
+| `clsApplication`            | Manages license applications                                                 |
+| `clsUser`                   | Manages user login and authentication                                        |
+| `clsDataAccessSettings`     | Handles database connection                                                  |
 
 ---
 
@@ -60,7 +47,7 @@ DVLD/
 - 📦 **Database Engine:** Microsoft SQL Server  
 - 🧭 **Management Tool:** SQL Server Management Studio (SSMS)  
 - 🧰 **Main Tables:**  
-  - `Clients`  
+  - `People`  
   - `LocalDrivingLicenseApplications`  
   - `InternationalLicenses`  
   - `Tests`  
@@ -69,13 +56,13 @@ DVLD/
   - `Licenses`  
   - `Applications`  
 
-The database contains relationships between clients, licenses, applications, and tests to ensure data consistency and support business rules.
+The database contains relationships between People, licenses, applications, and tests to ensure data consistency and support business rules.
 
 ---
 
 ## ⚙️ Core Functionalities
 
-- 👤 **Client Management**
+- 👤 **People Management**
   - Add, update, delete, and view client profiles
   - Store personal and contact information
 - 🪪 **License Management**
